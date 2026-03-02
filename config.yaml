@@ -1,0 +1,10 @@
+name: "MB7062 MQTT"
+version: "1.0"
+slug: "mb7062_mqtt"
+description: "Add-on per sensore MaxBotix MB7062"
+startup: services
+boot: auto
+arch:
+  - amd64
+  - aarch64
+  - armv7
