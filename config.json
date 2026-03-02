@@ -1,0 +1,12 @@
+{
+  "name": "MB7062 MQTT Sensor",
+  "version": "1.0",
+  "slug": "mb7062_mqtt",
+  "description": "Addon per leggere MB7062 via USB-TTL e pubblicare distanza su MQTT",
+  "arch": ["armv7", "armhf", "aarch64", "amd64"],
+  "startup": "application",
+  "boot": "auto",
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
